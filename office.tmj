@@ -395,6 +395,21 @@
                          "value":"https:\/\/meet.google.com\/ucn-qmwh-tma"
                         }, 
                         {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte 'Barra de espa\u00e7o' para entrar na reuni\u00e3o"
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":1
